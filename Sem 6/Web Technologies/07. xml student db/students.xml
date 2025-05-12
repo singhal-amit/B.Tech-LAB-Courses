@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+  <Student>
+    <EnrolmentNumber>001</EnrolmentNumber>
+    <Name>Amit</Name>
+    <MobileNumber>123421</MobileNumber>
+    <EmailId>abc@example.com</EmailId>
+  </Student>
+
+  <Student>
+    <EnrolmentNumber>002</EnrolmentNumber>
+    <Name>Yash</Name>
+    <MobileNumber>567822</MobileNumber>
+    <EmailId>def@example.com</EmailId>
+  </Student>
+
+  <Student>
+    <EnrolmentNumber>003</EnrolmentNumber>
+    <Name>Shaswat</Name>
+    <MobileNumber>91011</MobileNumber>
+    <EmailId>ghi@example.com</EmailId>
+  </Student>
+
+  <Student>
+    <EnrolmentNumber>004</EnrolmentNumber>
+    <Name>Lakshya</Name>
+    <MobileNumber>121314</MobileNumber>
+    <EmailId>jkl@example.com</EmailId>
+  </Student>
+
+  <Student>
+    <EnrolmentNumber>005</EnrolmentNumber>
+    <Name>Priyanshu</Name>
+    <MobileNumber>151617</MobileNumber>
+    <EmailId>mno@example.com</EmailId>
+  </Student>
+
+  <Student>
+    <EnrolmentNumber>006</EnrolmentNumber>
+    <Name>Gautam</Name>
+    <MobileNumber>181920</MobileNumber>
+    <EmailId>pqr@example.com</EmailId>
+  </Student>
+
+</Students>

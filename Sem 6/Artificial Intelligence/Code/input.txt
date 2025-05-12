@@ -1,0 +1,2 @@
+This is a simple text file containing some common stop words like is, a, and the.
+The goal is to remove these stop words from this passage using Python and NLTK.

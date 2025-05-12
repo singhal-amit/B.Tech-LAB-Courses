@@ -1,0 +1,1 @@
+simple text file containing common stop words like , , . goal remove stop words passage using Python NLTK .

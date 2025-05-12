@@ -1,0 +1,99 @@
+body {
+  background: #f8f9fa;
+}
+
+.container {
+  max-width: 800px;
+  margin-top: 30px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.question {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+.question h5 {
+  font-weight: 600;
+}
+
+.option {
+  display: block;
+  margin: 5px 0;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.option:hover {
+  background-color: #e9ecef;
+}
+
+.btn-submit {
+  display: block;
+  margin: 30px auto;
+  width: 50%;
+  font-size: 1.1rem;
+  padding: 10px;
+}
+
+.result-summary {
+  margin-bottom: 30px;
+  text-align: center;
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+.score {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0d6efd;
+  margin: 15px 0;
+}
+
+.correct {
+  background-color: #d4edda;
+  border-color: #c3e6cb;
+}
+
+.incorrect {
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+}
+
+.not-attempted {
+  background-color: #ffeeba;
+  border-color: #ffeeba;
+}
+
+.status-text {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.question-score {
+  text-align: right;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.btn-retake {
+  display: block;
+  margin: 30px auto;
+  width: 40%;
+  font-size: 1.1rem;
+  padding: 10px;
+}
