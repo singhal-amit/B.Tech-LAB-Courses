@@ -1,0 +1,102 @@
+# Compiled object files and binaries
+*.o
+*.ko
+*.obj
+*.elf
+*.out
+*.exe
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Compiled dynamic/shared libraries
+*.so
+*.so.*
+*.dll
+*.dylib
+
+# Compiled static libraries
+*.a
+*.lib
+*.la
+*.lo
+
+# Debugging files
+*.pdb
+*.dSYM/
+*.su
+*.idb
+*.mod*
+*.cmd
+*.map
+*.exp
+*.ilk
+*.stackdump
+
+# Kernel module build files
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Java build files
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+
+# Java logs and crash reports
+*.log
+hs_err_pid*
+replay_pid*
+
+# Java ME temporary files
+.mtj.tmp/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code workspace settings (keep only common shared ones)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# VS Code local history
+.history/
+
+# Windows system files
+Thumbs.db
+ehthumbs*.db
+*.lnk
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Scilab temporary files (if any)
+*.bin
+*.sav
+
+# Prolog intermediate files
+*.qlf
+
+# HTML, CSS, JS, PHP - usually no build artifacts, but ignore common editor backups
+*~
+*.swp
+*.bak
+*.tmp
